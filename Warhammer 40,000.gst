@@ -7,7 +7,7 @@
     <publication id="28ec-711c-pubN77581" name="Index: Imperium 2" publicationDate="2017-06-17"/>
     <publication id="28ec-711c-poti" name="PotiguarBook" publicationDate="2022-04-02"/>
     <publication id="28ec-711c-pubN78977" name="Index: Imperium 1" publicationDate="2017-06-17"/>
-    <publication id="28ec-711c-pubN99666" name="Index: Chaos" publicationDate="2017-06-17"/>
+    <publication id="28ec-711c-pubN79997" name="Index: Chaos" publicationDate="2017-06-17"/>
     <publication id="28ec-711c-pubN118139" name="Index: Xenos 2" publicationDate="2017-06-17"/>
     <publication id="28ec-711c-pubN76527" name="Index: Xenos 1" publicationDate="2017-06-17"/>
     <publication id="28ec-711c-pubN98266" name="Imperium Nihilus: Vigilus Defiant" publicationDate="2018-12-15"/>
